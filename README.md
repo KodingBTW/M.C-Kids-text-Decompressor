@@ -10,7 +10,7 @@ Otherwise there are three block of text. Located in:
 - 0x4609 to 0x4AAB
 - 0x4AAC to 0x5082
 
-The gamr text compression It's a kind of Lempel-Ziv:
+The game text compression It's a kind of Lempel-Ziv:
 
 - 4 bits: size of the "source" argument for pastcopies, in bits
 - 4 bits: size of the "length" argument for pastcopies, in bits
