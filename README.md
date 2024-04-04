@@ -1,4 +1,4 @@
-# M.C-Kids-text-Descompressor
+# M.C-Kids-text-Decompressor
 
 Use same patch nes rom then use:
 
