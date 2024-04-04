@@ -1,6 +1,8 @@
 # M.C-Kids-text-Descompressor
 
-Use same patch nes rom then: use decompressor.py <romFile> <startOffset> [outFile]
+Use same patch nes rom then use:
+
+decompressor.py [romFile] [startOffset] [outFile]
 
 Otherwise there are three block of text. Located in:
 
